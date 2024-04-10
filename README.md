@@ -1,1 +1,2 @@
 # odin-recipes
+Prvi Odin projekat, kreiram HTML stranicu za recepte. Cilj je prikazivanje i vjezbanje osnovnih stvari u HTML-u kao sto su paragrafi, naslovi, liste, slike, linkovi, povezivanje linkova, formatiranje teksta itd.
